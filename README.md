@@ -54,7 +54,7 @@ const bid =
 
 ## Author
 
-luannzin
+luannzin <br>
 https://github.com/luannzin/
 
 
