@@ -24,8 +24,8 @@ const coinURL = await fetch(
       `https://economia.awesomeapi.com.br/json/last/${from.value}-${to.value}`
     ); //The template literals makes more easily to concatenate
     //The 'await' is to wait the 'fetch' return a value.
-    //The 'from' variable is the value of the first **<select>**.
-    //The 'to' variable is the value of the second **<select>**.
+    //The 'from' variable is the value of the first <select>.
+    //The 'to' variable is the value of the second <select>.
     //The value of the selects is passed in abreviate form, like: usd or brl.
     //by luannzin; https://github.com/luannzin/
 
